@@ -23,6 +23,6 @@ Add background is to open a image in the local directory and select a background
 Save is to select a local directory and save the generated image at that location.  
 
 # Warning
-To ensure the software runs correctly, please upload image larger than 200 * 200. If the image brightness is low, the style transfer result will be bad so please use image with normal brightness. 
+To ensure the software runs correctly, please upload image larger than 200 * 200. If the image brightness is low, the style transfer result will be bad so please use image with normal brightness.   
 The real human photo is used, so please consider the privacy carefully.  
 The model of this project cannot be used in Commercial activities.  
