@@ -22,3 +22,6 @@ Female mode button is to open a image in the local directory and transfer that i
 Add background is to open a image in the local directory and select a background image, then blend background image and generated cartoon image.  
 Save is to select a local directory and save the generated image at that location.  
 
+# Warning
+To ensure the software runs correctly, please upload image larger than 200 * 200. If the image brightness is low, the style transfer result will be bad so please use image with normal brightness. 
+
