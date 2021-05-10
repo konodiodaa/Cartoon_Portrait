@@ -1,4 +1,4 @@
-**User Manual**  
+# User Manual    
 # Cartoon_Portrait
 Please download these model before running the program, put the model of female and model of male into the modle directory and face segment model into util directory.  
 Cartoon model of female:  https://drive.google.com/file/d/1QMJIceH8cvdB2rcX4e7pfG3QT7iIfkB2/view?usp=sharing  
