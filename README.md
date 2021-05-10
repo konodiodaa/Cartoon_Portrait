@@ -18,6 +18,6 @@ PyQT5
 Run the UI.py to start the software.  
 Male mode button is to open a image in the local directory and transfer that image to cartoon style with male model, then display it.  
 Female mode button is to open a image in the local directory and transfer that image to cartoon style with female model, then display it.  
-Add background is to open a image in the local directory and select a background image, then blend background image and generated cartoon image.
+Add background is to open a image in the local directory and select a background image, then blend background image and generated cartoon image.  
 Save is to select a local directory and save the generated image at that location.  
 
